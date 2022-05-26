@@ -23,3 +23,9 @@ button:hover {
     color: #ccc;
     cursor: auto;
 }
+
+button:disabled {
+    background-color: #eee;
+    color: #ccc;
+    cursor: auto;
+}
